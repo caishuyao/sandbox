@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/caishuyao/sandbox/issues"
   },
-  "homepage": "https://github.com/caishuyao/sandbox#readme"
+  "homepage": "https://github.com/caishuyao/sandbox#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
